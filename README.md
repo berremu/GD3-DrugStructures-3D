@@ -36,7 +36,7 @@ You can load each `.sdf` file into PyMOL or similar molecular visualization soft
 ##  Citation & License
 
 This dataset supports the bachelor's thesis project:  
-**"Transcriptomic-Guided Drug Repositioning in Gaucher Disease Type 3"**  
+INTEGRATED TRANSCRIPTOMIC AND NETWORK-BASED ANALYSIS OF GAUCHER DISEASE TYPE 3 REVEALS KEY REGULATORS AND DRUG REPOSITIONING OPPORTUNITIES
 Istanbul Medeniyet University, Department of Engineering and Natural Sciences, 2025.
 
 This work was created as part of an undergraduate thesis and is not intended for clinical or diagnostic purposes.
